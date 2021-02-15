@@ -18,5 +18,5 @@ def list_dwarves(array)
   
   array.ach_with_index do |dwarf, index|
     puts "#{index}. #{dwarf}"
-  
+  end 
 end
